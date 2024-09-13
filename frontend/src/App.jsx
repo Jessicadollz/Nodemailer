@@ -23,7 +23,7 @@ function App() {
 
     axios
     // .get("http://localhost:3000/", {
-      .get("https://nodemailer-be.vercel.app/", {
+     .get("https://nodemailer-three-virid.vercel.app/", {
         params: {
           email,
           subject,
